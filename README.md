@@ -1,2 +1,7 @@
-# expresso-template
-expresso template for website projects
+# Getting Started
+
+`$ virtualenv venv`
+
+`$ source venv/bin/activate`
+
+`$ python __init__.py`
